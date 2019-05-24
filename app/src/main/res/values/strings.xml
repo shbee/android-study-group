@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryLeak</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_entry">EntryActivity</string>
+</resources>
